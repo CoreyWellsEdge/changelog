@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "node": "^18.20.6"
+    "node": "^20.15.1"
   },
   "name": "testapp",
   "version": "1.0.0",
