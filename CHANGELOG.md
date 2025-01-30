@@ -1,3 +1,10 @@
+# [3.1.0](https://github.com/CoreyWellsEdge/changelog/compare/v3.0.0...v3.1.0) (2025-01-30)
+
+
+### Features
+
+* add MTR data ([190b397](https://github.com/CoreyWellsEdge/changelog/commit/190b397702ae4b768e593952072a1692be9dd746))
+
 # [3.0.0](https://github.com/CoreyWellsEdge/changelog/compare/v2.1.0...v3.0.0) (2025-01-30)
 
 
