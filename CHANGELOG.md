@@ -1,3 +1,10 @@
+## [3.2.7](https://github.com/CoreyWellsEdge/changelog/compare/v3.2.6...v3.2.7) (2025-01-30)
+
+
+### Bug Fixes
+
+* refactor ([f4746bf](https://github.com/CoreyWellsEdge/changelog/commit/f4746bf667d233db79c891902de343b0f59fbed5))
+
 ## [3.2.6](https://github.com/CoreyWellsEdge/changelog/compare/v3.2.5...v3.2.6) (2025-01-30)
 
 
