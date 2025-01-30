@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/CoreyWellsEdge/changelog/compare/v2.0.1...v2.1.0) (2025-01-30)
+
+
+### Features
+
+* :semi: :test: ([a217561](https://github.com/CoreyWellsEdge/changelog/commit/a21756163d081487c650f7d8c28efbf779020a91))
+
 ## [2.0.1](https://github.com/CoreyWellsEdge/changelog/compare/v2.0.0...v2.0.1) (2025-01-30)
 
 
