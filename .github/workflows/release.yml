@@ -47,3 +47,4 @@ jobs:
           export RELEASE_DATE=$(TZ="Australia/Brisbane" date +"%Y-%m-%d")
           echo "Updating changelog with release date: $RELEASE_DATE"
           sed -i 's/\(## \[.*\] - \)[0-9]*-[0-9]*-[0-9]*/\1'"$RELEASE_DATE"'/' CHANGELOG.md
+
