@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/CoreyWellsEdge/changelog/compare/v2.0.0...v2.0.1) (2025-01-30)
+
+
+### Bug Fixes
+
+* file name ([b88db5c](https://github.com/CoreyWellsEdge/changelog/commit/b88db5c95cb00061d6d3783f40905339107d5dc2))
+
 # [2.0.0](https://github.com/CoreyWellsEdge/changelog/compare/v1.0.0...v2.0.0) (2025-01-30)
 
 
