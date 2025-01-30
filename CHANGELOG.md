@@ -1,3 +1,10 @@
+## [3.2.6](https://github.com/CoreyWellsEdge/changelog/compare/v3.2.5...v3.2.6) (2025-01-30)
+
+
+### Bug Fixes
+
+* set tz action ([ff64464](https://github.com/CoreyWellsEdge/changelog/commit/ff644641ebb733f949441fb45397988963432f2e))
+
 ## [3.2.5](https://github.com/CoreyWellsEdge/changelog/compare/v3.2.4...v3.2.5) (2025-01-30)
 
 
