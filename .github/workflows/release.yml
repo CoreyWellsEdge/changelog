@@ -17,6 +17,10 @@ jobs:
       deployments: write   # Required for creating deployments (if you're deploying the code)
     
     steps:
+      - name: Set Timezone to Brisbane (UTC+10)
+        run: |
+          sudo timedatectl set-timezone Australia/Brisbane
+          
       - name: Checkout code
         uses: actions/checkout@v2
 
