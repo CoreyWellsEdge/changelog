@@ -1,3 +1,10 @@
+## [3.2.4](https://github.com/CoreyWellsEdge/changelog/compare/v3.2.3...v3.2.4) (2025-01-30)
+
+
+### Bug Fixes
+
+* add release_date env var ([d696074](https://github.com/CoreyWellsEdge/changelog/commit/d696074e76cc0631b37ba2d97a61b9911115059b))
+
 ## [3.2.3](https://github.com/CoreyWellsEdge/changelog/compare/v3.2.2...v3.2.3) (2025-01-30)
 
 
