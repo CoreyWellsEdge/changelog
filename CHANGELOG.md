@@ -1,3 +1,10 @@
+## [3.2.8](https://github.com/CoreyWellsEdge/changelog/compare/v3.2.7...v3.2.8) (2025-01-30)
+
+
+### Bug Fixes
+
+* add manual commit chore ([87f8b87](https://github.com/CoreyWellsEdge/changelog/commit/87f8b87151bad393466beacc684d1563e8b87226))
+
 ## [3.2.7](https://github.com/CoreyWellsEdge/changelog/compare/v3.2.6...v3.2.7) (2025-01-30)
 
 
