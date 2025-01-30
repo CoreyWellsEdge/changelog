@@ -1,3 +1,10 @@
+## [3.2.3](https://github.com/CoreyWellsEdge/changelog/compare/v3.2.2...v3.2.3) (2025-01-30)
+
+
+### Bug Fixes
+
+* manual adjust date Bris ([6654174](https://github.com/CoreyWellsEdge/changelog/commit/665417429baaffcf68a54053fea4d00eaa4f3eb3))
+
 ## [3.2.2](https://github.com/CoreyWellsEdge/changelog/compare/v3.2.1...v3.2.2) (2025-01-30)
 
 
