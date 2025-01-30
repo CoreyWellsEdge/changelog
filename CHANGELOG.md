@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/CoreyWellsEdge/changelog/compare/v1.0.0...v2.0.0) (2025-01-30)
+
+
+### Features
+
+* brought back the text file! ([1d163e1](https://github.com/CoreyWellsEdge/changelog/commit/1d163e15a61919ae07973cf041a09fd11ca7f48a))
+
+
+### BREAKING CHANGES
+
+* )
+
 # 1.0.0 (2025-01-30)
 
 
