@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: read       # Required to read the repository contents
+      contents: write       
       issues: write        # Required to create issues (for semantic release to update issues)
       pull-requests: write # Required to interact with pull requests (for semantic release to create changelogs)
       actions: write       # Required for creating releases and interacting with GitHub actions
