@@ -1,3 +1,15 @@
+# [3.0.0](https://github.com/CoreyWellsEdge/changelog/compare/v2.1.0...v3.0.0) (2025-01-30)
+
+
+### Bug Fixes
+
+* :test: ([39c1f4d](https://github.com/CoreyWellsEdge/changelog/commit/39c1f4d726c6fcc39615f5f6eaa5c00201d47c2f))
+
+
+### BREAKING CHANGES
+
+* test:
+
 # [2.1.0](https://github.com/CoreyWellsEdge/changelog/compare/v2.0.1...v2.1.0) (2025-01-30)
 
 
