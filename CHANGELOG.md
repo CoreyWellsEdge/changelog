@@ -1,3 +1,10 @@
+## [3.2.1](https://github.com/CoreyWellsEdge/changelog/compare/v3.2.0...v3.2.1) (2025-01-30)
+
+
+### Bug Fixes
+
+* add env tz var ([c6c5f52](https://github.com/CoreyWellsEdge/changelog/commit/c6c5f52785988a307457fa6a53e69f6a810e1b32))
+
 # [3.2.0](https://github.com/CoreyWellsEdge/changelog/compare/v3.1.0...v3.2.0) (2025-01-30)
 
 
