@@ -34,7 +34,7 @@ jobs:
         
       - name: Adjust Date for Release Notes
         run: |
-          export RELEASE_DATE=$(date +"%Y-%m-%d")
+          export RELEASE_DATE=$(TZ="Australia/Brisbane" date +"%Y-%m-%d")
           echo "Release Date: $RELEASE_DATE"
 
       - name: Run Semantic Release
