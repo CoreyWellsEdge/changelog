@@ -1,3 +1,10 @@
+# [3.3.0](https://github.com/CoreyWellsEdge/changelog/compare/v3.2.8...v3.3.0) (2025-01-30)
+
+
+### Features
+
+* give up, date cannot be changed ([988d244](https://github.com/CoreyWellsEdge/changelog/commit/988d244f73284f27c0315527a1a6a7af628ba298))
+
 ## [3.2.8](https://github.com/CoreyWellsEdge/changelog/compare/v3.2.7...v3.2.8) (2025-01-30)
 
 
