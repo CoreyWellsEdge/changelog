@@ -35,16 +35,10 @@ jobs:
 
       - name: Install dependencies
         run: npm install
-        
-      - name: Adjust Date for Release Notes
-        run: |
-          export RELEASE_DATE=$(TZ="Australia/Brisbane" date +"%Y-%m-%d")
-          echo "Release Date: $RELEASE_DATE"
 
       - name: Run Semantic Release
         env:
           TZ: Australia/Brisbane
-          RELEASE_DATE: ${{ steps.adjust_date.outputs.RELEASE_DATE }} 
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Use the GitHub token with proper permissions
         run: npx semantic-release
         
