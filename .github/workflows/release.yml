@@ -34,3 +34,23 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Use the GitHub token with proper permissions
         run: npx semantic-release
         
+      - name: Set Git user identity
+        run: |
+          git config --global user.email "corey.wells@edge2020.com.au"
+          git config --global user.name "Corey Wells"
+          
+      - name: Adjust Changelog Date Format
+        run: |
+          echo "Adjusting changelog date format..."
+
+          # Export custom date format (e.g., Brisbane time)
+          export NEW_DATE=$(TZ="Australia/Brisbane" date +"%d-%m-%Y")
+          echo "New release date: $NEW_DATE"
+
+          # Modify CHANGELOG.md and replace dates
+          sed -i "s/\([0-9]*-[0-9]*-[0-9]*\)/$NEW_DATE/g" CHANGELOG.md
+
+          # Commit the updated changelog back to the repository
+          git add CHANGELOG.md
+          git commit -m "chore: update changelog with custom date format"
+          git push origin master

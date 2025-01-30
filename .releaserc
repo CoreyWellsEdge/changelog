@@ -1,1 +1,17 @@
-{  "branches": ["master"],  "plugins": [    "@semantic-release/commit-analyzer",    "@semantic-release/release-notes-generator",    "@semantic-release/changelog",    "@semantic-release/git",    "@semantic-release/github"  ]} 
+{
+  "branches": ["master"],
+  "plugins": [
+    "@semantic-release/commit-analyzer",
+    "@semantic-release/release-notes-generator",
+    "@semantic-release/changelog",
+    {
+      "path": "@semantic-release/changelog",
+      "changelogFile": "CHANGELOG.md",  // Specify the changelog file
+      "changelogTitle": "# Changelog",  // Customize the title of your changelog section
+      "changelogHeader": "## Release Notes",  // Customize the header for each release
+      "changelogFooter": "\n* Generated automatically by semantic-release"
+    },
+    "@semantic-release/github",
+    "@semantic-release/git"
+  ]
+}
