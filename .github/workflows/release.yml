@@ -7,12 +7,15 @@ on:
 
 jobs:
   release:
-   permissions:
-      contents: write
-      issues: write
-      pull-requests: write
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: read       # Required to read the repository contents
+      issues: write        # Required to create issues (for semantic release to update issues)
+      pull-requests: write # Required to interact with pull requests (for semantic release to create changelogs)
+      actions: write       # Required for creating releases and interacting with GitHub actions
+      deployments: write   # Required for creating deployments (if you're deploying the code)
+    
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
@@ -27,5 +30,5 @@ jobs:
 
       - name: Run Semantic Release
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Use the GitHub token with proper permissions
         run: npx semantic-release
