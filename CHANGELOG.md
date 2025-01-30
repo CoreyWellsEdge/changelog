@@ -1,3 +1,10 @@
+# [3.2.0](https://github.com/CoreyWellsEdge/changelog/compare/v3.1.0...v3.2.0) (2025-01-30)
+
+
+### Features
+
+* changed to Brisbane tz ([8d28937](https://github.com/CoreyWellsEdge/changelog/commit/8d28937e92aaad609578a7dc8f1a59d31b5598ec))
+
 # [3.1.0](https://github.com/CoreyWellsEdge/changelog/compare/v3.0.0...v3.1.0) (2025-01-30)
 
 
