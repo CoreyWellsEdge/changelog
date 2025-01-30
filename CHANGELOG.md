@@ -1,3 +1,10 @@
+## [3.2.5](https://github.com/CoreyWellsEdge/changelog/compare/v3.2.4...v3.2.5) (2025-01-30)
+
+
+### Bug Fixes
+
+* adjust date after SR run ([1fe22fe](https://github.com/CoreyWellsEdge/changelog/commit/1fe22feaf12c18cd5f51a14df12f8103d84c2e0e))
+
 ## [3.2.4](https://github.com/CoreyWellsEdge/changelog/compare/v3.2.3...v3.2.4) (2025-01-30)
 
 
