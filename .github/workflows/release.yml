@@ -18,8 +18,12 @@ jobs:
     
     steps:
       - name: Set Timezone to Brisbane (UTC+10)
-        run: |
-          sudo timedatectl set-timezone Australia/Brisbane
+        uses: MathRobin/timezone-action@v1.1
+        with:
+            timezoneLinux: 'Australia/Brisbane'
+            timezoneMacos: 'Australia/Brisbane'
+            timezoneWindows: 'Australia/Brisbane'
+          
           
       - name: Checkout code
         uses: actions/checkout@v2
