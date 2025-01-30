@@ -34,5 +34,6 @@ jobs:
 
       - name: Run Semantic Release
         env:
+          TZ: Australia/Brisbane
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Use the GitHub token with proper permissions
         run: npx semantic-release
