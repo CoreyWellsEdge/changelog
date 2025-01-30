@@ -1,3 +1,10 @@
+## [3.2.2](https://github.com/CoreyWellsEdge/changelog/compare/v3.2.1...v3.2.2) (2025-01-30)
+
+
+### Bug Fixes
+
+* manually adjust date ([cd3c16b](https://github.com/CoreyWellsEdge/changelog/commit/cd3c16b8bb90ec24d3764fa710a9002054e1ba0a))
+
 ## [3.2.1](https://github.com/CoreyWellsEdge/changelog/compare/v3.2.0...v3.2.1) (2025-01-30)
 
 
