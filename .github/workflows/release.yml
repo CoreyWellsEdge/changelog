@@ -16,11 +16,7 @@ jobs:
       actions: write       # Required for creating releases and interacting with GitHub actions
       deployments: write   # Required for creating deployments (if you're deploying the code)
     
-    steps:
-      - name: Set Timezone to Brisbane (UTC+10)
-        run: |
-          sudo timedatectl set-timezone Australia/Brisbane
-          
+    steps:         
           
       - name: Checkout code
         uses: actions/checkout@v2
@@ -35,12 +31,6 @@ jobs:
 
       - name: Run Semantic Release
         env:
-          TZ: Australia/Brisbane
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Use the GitHub token with proper permissions
         run: npx semantic-release
         
-      - name: Commit Changelog Update
-        run: |
-          git add CHANGELOG.md
-          git commit -m "chore: update changelog with correct release date"
-          git push origin master
