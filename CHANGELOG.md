@@ -1,3 +1,23 @@
+# Changelog
+
+## [3.3.1](https://github.com/CoreyWellsEdge/changelog/compare/v3.3.0...v3.3.1) (2025-01-31)
+
+
+### Bug Fixes
+
+* changelog format, date ([f96d6fd](https://github.com/CoreyWellsEdge/changelog/commit/f96d6fd013db49337e3143d414a71b7db2c289b0))
+* releaserc comments ([313eb46](https://github.com/CoreyWellsEdge/changelog/commit/313eb4642a5896ec5adb25780047a95ad56dcc64))
+* typo ([486be15](https://github.com/CoreyWellsEdge/changelog/commit/486be15c8df2e8235bd6628a9e69e24a8f6c165c))
+
+## [3.3.1](https://github.com/CoreyWellsEdge/changelog/compare/v3.3.0...v3.3.1) (2025-01-31)
+
+
+### Bug Fixes
+
+* changelog format, date ([f96d6fd](https://github.com/CoreyWellsEdge/changelog/commit/f96d6fd013db49337e3143d414a71b7db2c289b0))
+* releaserc comments ([313eb46](https://github.com/CoreyWellsEdge/changelog/commit/313eb4642a5896ec5adb25780047a95ad56dcc64))
+* typo ([486be15](https://github.com/CoreyWellsEdge/changelog/commit/486be15c8df2e8235bd6628a9e69e24a8f6c165c))
+
 # [3.3.0](https://github.com/CoreyWellsEdge/changelog/compare/v3.2.8...v3.3.0) (2025-01-30)
 
 
