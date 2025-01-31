@@ -28,15 +28,9 @@ jobs:
 
       - name: Install dependencies
         run: npm install
-
-      - name: Set custom date format (Australia/Brisbane)
-        run: |
-          export NEW_DATE=$(TZ="Pacific/Honolulu" date +"%d-%m-%Y")
-          echo "RELEASE_DATE=$NEW_DATE" >> $GITHUB_ENV
           
       - name: Run Semantic Release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Use the GitHub token with proper permissions
-          RELEASE_DATE: ${{ env.RELEASE_DATE }}
         run: npx semantic-release
         
