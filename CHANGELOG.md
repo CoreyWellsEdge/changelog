@@ -1,13 +1,13 @@
 # Changelog
 
-## [3.3.3](https://github.com/CoreyWellsEdge/changelog/compare/v3.3.2...v3.3.3) (2025-01-31)
+## [3.3.3](https://github.com/CoreyWellsEdge/changelog/compare/v3.3.2...v3.3.3) (31-01-2025)
 
 
 ### Bug Fixes
 
 * yml regex ([b96cc35](https://github.com/CoreyWellsEdge/changelog/commit/b96cc35f47559ee0846f4e0967f6fc28bcdc5c85))
 
-## [3.3.3](https://github.com/CoreyWellsEdge/changelog/compare/v3.3.2...v3.3.3) (2025-01-31)
+## [3.3.3](https://github.com/CoreyWellsEdge/changelog/compare/v3.3.2...v3.3.3) (31-01-2025)
 
 
 ### Bug Fixes
@@ -16,14 +16,14 @@
 
 # Changelog
 
-## [3.3.2](https://github.com/CoreyWellsEdge/changelog/compare/v3.3.1...v3.3.2) (2025-01-31)
+## [3.3.2](https://github.com/CoreyWellsEdge/changelog/compare/v3.3.1...v3.3.2) (31-01-2025)
 
 
 ### Bug Fixes
 
 * change only most recent changelog entry ([aa6fd1f](https://github.com/CoreyWellsEdge/changelog/commit/aa6fd1f5c42b8ff839e822f2bc0b43dfec770550))
 
-## [3.3.2](https://github.com/CoreyWellsEdge/changelog/compare/v3.3.1...v3.3.2) (2025-01-31)
+## [3.3.2](https://github.com/CoreyWellsEdge/changelog/compare/v3.3.1...v3.3.2) (31-01-2025)
 
 
 ### Bug Fixes
