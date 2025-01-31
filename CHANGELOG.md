@@ -1,3 +1,10 @@
+## [3.4.8](https://github.com/CoreyWellsEdge/changelog/compare/v3.4.7...v3.4.8) (2025-01-31)
+
+
+### Bug Fixes
+
+* push ([dcc2ed1](https://github.com/CoreyWellsEdge/changelog/commit/dcc2ed1929eccc659279a9f5bf003adad7c4435a))
+
 ## [3.4.7](https://github.com/CoreyWellsEdge/changelog/compare/v3.4.6...v3.4.7) (2025-01-31)
 
 
