@@ -1,5 +1,21 @@
 # Changelog
 
+## [3.3.3](https://github.com/CoreyWellsEdge/changelog/compare/v3.3.2...v3.3.3) (2025-01-31)
+
+
+### Bug Fixes
+
+* yml regex ([b96cc35](https://github.com/CoreyWellsEdge/changelog/commit/b96cc35f47559ee0846f4e0967f6fc28bcdc5c85))
+
+## [3.3.3](https://github.com/CoreyWellsEdge/changelog/compare/v3.3.2...v3.3.3) (2025-01-31)
+
+
+### Bug Fixes
+
+* yml regex ([b96cc35](https://github.com/CoreyWellsEdge/changelog/commit/b96cc35f47559ee0846f4e0967f6fc28bcdc5c85))
+
+# Changelog
+
 ## [3.3.2](https://github.com/CoreyWellsEdge/changelog/compare/v3.3.1...v3.3.2) (2025-01-31)
 
 
