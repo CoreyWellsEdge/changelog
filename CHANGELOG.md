@@ -1,5 +1,21 @@
 # Changelog
 
+## [3.3.2](https://github.com/CoreyWellsEdge/changelog/compare/v3.3.1...v3.3.2) (2025-01-31)
+
+
+### Bug Fixes
+
+* change only most recent changelog entry ([aa6fd1f](https://github.com/CoreyWellsEdge/changelog/commit/aa6fd1f5c42b8ff839e822f2bc0b43dfec770550))
+
+## [3.3.2](https://github.com/CoreyWellsEdge/changelog/compare/v3.3.1...v3.3.2) (2025-01-31)
+
+
+### Bug Fixes
+
+* change only most recent changelog entry ([aa6fd1f](https://github.com/CoreyWellsEdge/changelog/commit/aa6fd1f5c42b8ff839e822f2bc0b43dfec770550))
+
+# Changelog
+
 ## [3.3.1](https://github.com/CoreyWellsEdge/changelog/compare/v3.3.0...v3.3.1) (31-01-2025)
 
 
