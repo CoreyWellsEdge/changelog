@@ -1,3 +1,10 @@
+## [3.4.2](https://github.com/CoreyWellsEdge/changelog/compare/v3.4.1...v3.4.2) (2025-01-31)
+
+
+### Bug Fixes
+
+* dont pull ([05df026](https://github.com/CoreyWellsEdge/changelog/commit/05df026eebeef46ad69447dc04f89124e26878ec))
+
 ## [3.4.1](https://github.com/CoreyWellsEdge/changelog/compare/v3.4.0...v3.4.1) (2025-01-31)
 
 
