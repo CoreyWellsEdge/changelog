@@ -1,5 +1,12 @@
 # Changelog!
 
+# [3.6.0](https://github.com/CoreyWellsEdge/changelog/compare/v3.5.5...v3.6.0) (2025-01-31)
+
+
+### Features
+
+* set preset ([f17382e](https://github.com/CoreyWellsEdge/changelog/commit/f17382e2185386948ac7096f4db0fec06221b887))
+
 ## [3.5.5](https://github.com/CoreyWellsEdge/changelog/compare/v3.5.4...v3.5.5) (2025-01-31)
 
 
