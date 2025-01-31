@@ -44,14 +44,13 @@ jobs:
           echo "Adjusting changelog date format..."
 
           # Export custom date format (e.g., Brisbane time)
-          export NEW_DATE=$(TZ="Australia/Brisbane" date +"%Y-%m-%d")
+          export NEW_DATE=$(TZ="Pacific/Honolulu" date +"%Y-%m-%d")
           echo "New release date: $NEW_DATE"
 
           # Modify CHANGELOG.md and replace dates
           sed -i "0,/## /s/\([0-9]*-[0-9]*-[0-9]*\)/$NEW_DATE/" CHANGELOG.md
 
           # Commit the updated changelog back to the repository
-          git push
           git add CHANGELOG.md
           git commit -m "chore(release): update changelog with Brisbane date format [skip ci]"
           git push origin master
