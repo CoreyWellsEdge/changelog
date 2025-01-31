@@ -1,3 +1,10 @@
+## [3.4.11](https://github.com/CoreyWellsEdge/changelog/compare/v3.4.10...v3.4.11) (2025-01-31)
+
+
+### Bug Fixes
+
+* honolulu ([f1e4ae0](https://github.com/CoreyWellsEdge/changelog/commit/f1e4ae017865dea1ad663ed4510caedfa5345b4f))
+
 ## [3.4.10](https://github.com/CoreyWellsEdge/changelog/compare/v3.4.9...v3.4.10) (2025-01-31)
 
 
