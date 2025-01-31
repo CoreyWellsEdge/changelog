@@ -5,6 +5,7 @@
     [
 		"@semantic-release/release-notes-generator",
 		{
+		  "preset": "angular",
 		  "writerOpts": {
 			"date": "dd-mm-yyyy",
             "timeZone": "Pacific/Guam"
