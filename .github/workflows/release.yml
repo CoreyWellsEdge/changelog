@@ -41,16 +41,17 @@ jobs:
           
       - name: Adjust Changelog Date Format
         run: |
-          echo "Adjusting changelog date format..."
+            echo "Adjusting changelog date format..."
+    
+            # Export custom date format (e.g., Brisbane time)
+            export NEW_DATE=$(TZ="Australia/Brisbane" date +"%Y-%m-%d")
+            echo "New release date: $NEW_DATE"
+    
+            # Only modify the most recent release date in the changelog
+            # We assume that the most recent release starts with a version number (e.g., v1.2.3)
+            sed -i "0,/## /s/\([0-9]*-[0-9]*-[0-9]*\)/$NEW_DATE/" CHANGELOG.md
 
-          # Export custom date format (e.g., Brisbane time)
-          export NEW_DATE=$(TZ="Australia/Brisbane" date +"%d-%m-%Y")
-          echo "New release date: $NEW_DATE"
-
-          # Modify CHANGELOG.md and replace dates
-          sed -i "s/\([0-9]*-[0-9]*-[0-9]*\)/$NEW_DATE/g" CHANGELOG.md
-
-          # Commit the updated changelog back to the repository
-          git add CHANGELOG.md
-          git commit -m "chore: update changelog with custom date format"
-          git push origin master
+            # Commit the updated changelog back to the repository
+            git add CHANGELOG.md
+            git commit -m "chore: update most recent changelog entry with Brisbane date format"
+            git push origin master
