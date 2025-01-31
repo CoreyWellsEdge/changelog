@@ -1,3 +1,10 @@
+# [3.4.0](https://github.com/CoreyWellsEdge/changelog/compare/v3.3.3...v3.4.0) (2025-01-31)
+
+
+### Features
+
+* formatting ([267e405](https://github.com/CoreyWellsEdge/changelog/commit/267e40509abd3cf6d2fe72af11b7d0de0f94c21c))
+
 # Changelog
 
 ## [3.3.3](https://github.com/CoreyWellsEdge/changelog/compare/v3.3.2...v3.3.3) (31-01-2025)
