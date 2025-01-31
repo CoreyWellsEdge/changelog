@@ -1,5 +1,12 @@
 # Changelog!
 
+## [3.5.3](https://github.com/CoreyWellsEdge/changelog/compare/v3.5.2...v3.5.3) (2025-01-31)
+
+
+### Bug Fixes
+
+* test hawaii ([94a27ea](https://github.com/CoreyWellsEdge/changelog/commit/94a27eaeebe968ddd97ec7ab3372a2e4b300c7d5))
+
 ## [3.5.2](https://github.com/CoreyWellsEdge/changelog/compare/v3.5.1...v3.5.2) (2025-01-31)
 
 
