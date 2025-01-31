@@ -1,3 +1,10 @@
+## [3.4.3](https://github.com/CoreyWellsEdge/changelog/compare/v3.4.2...v3.4.3) (2025-01-31)
+
+
+### Bug Fixes
+
+* branch ([6f0c658](https://github.com/CoreyWellsEdge/changelog/commit/6f0c6588c808aad47ef5e5a40f758cc76386c6b5))
+
 ## [3.4.2](https://github.com/CoreyWellsEdge/changelog/compare/v3.4.1...v3.4.2) (2025-01-31)
 
 
