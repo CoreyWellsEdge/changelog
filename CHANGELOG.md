@@ -1,4 +1,4 @@
-## [3.4.11](https://github.com/CoreyWellsEdge/changelog/compare/v3.4.10...v3.4.11) (2025-01-31)
+## [3.4.11](https://github.com/CoreyWellsEdge/changelog/compare/v3.4.10...v3.4.11) (2025-01-30)
 
 
 ### Bug Fixes
