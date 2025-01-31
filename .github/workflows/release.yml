@@ -44,7 +44,7 @@ jobs:
           echo "Adjusting changelog date format..."
 
           # Export custom date format (e.g., Brisbane time)
-          export NEW_DATE=$(TZ="Pacific/Honolulu" date +"%Y-%m-%d")
+          export NEW_DATE=$(TZ="Australia/Brisbane" date +"%Y-%m-%d")
           echo "New release date: $NEW_DATE"
 
           # Modify CHANGELOG.md and replace dates
