@@ -1,5 +1,13 @@
 # Changelog!
 
+## [3.5.5](https://github.com/CoreyWellsEdge/changelog/compare/v3.5.4...v3.5.5) (2025-01-31)
+
+
+### Bug Fixes
+
+* try guam ([613b55e](https://github.com/CoreyWellsEdge/changelog/commit/613b55e0a5417b8574cd7a8aae409f40b8355e9b))
+* typo ([225ca3a](https://github.com/CoreyWellsEdge/changelog/commit/225ca3aeaf73e8652ad820f9c090f2886a6af1bd))
+
 ## [3.5.4](https://github.com/CoreyWellsEdge/changelog/compare/v3.5.3...v3.5.4) (2025-01-31)
 
 
