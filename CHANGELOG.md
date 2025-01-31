@@ -1,3 +1,12 @@
+# Changelog!
+
+## [3.5.2](https://github.com/CoreyWellsEdge/changelog/compare/v3.5.1...v3.5.2) (2025-01-31)
+
+
+### Bug Fixes
+
+* writer opt Timezone ([3757510](https://github.com/CoreyWellsEdge/changelog/commit/375751027aaf33dcb26e02015763a3575c789ce4))
+
 # Changelog
 
 ## [3.5.1](https://github.com/CoreyWellsEdge/changelog/compare/v3.5.0...v3.5.1) (2025-01-31)
