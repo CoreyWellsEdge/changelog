@@ -1,3 +1,10 @@
+## [3.4.12](https://github.com/CoreyWellsEdge/changelog/compare/v3.4.11...v3.4.12) (2025-01-31)
+
+
+### Bug Fixes
+
+* bris ([ff9d056](https://github.com/CoreyWellsEdge/changelog/commit/ff9d056f9550f90de5bd499e854529cb234398a8))
+
 ## [3.4.11](https://github.com/CoreyWellsEdge/changelog/compare/v3.4.10...v3.4.11) (2025-01-30)
 
 
