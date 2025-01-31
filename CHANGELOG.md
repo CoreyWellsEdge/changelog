@@ -1,5 +1,12 @@
 # Changelog!
 
+## [3.5.4](https://github.com/CoreyWellsEdge/changelog/compare/v3.5.3...v3.5.4) (2025-01-31)
+
+
+### Bug Fixes
+
+* tz format ([29172d8](https://github.com/CoreyWellsEdge/changelog/commit/29172d86e4edec65e9e19a74672464145495d7cf))
+
 ## [3.5.3](https://github.com/CoreyWellsEdge/changelog/compare/v3.5.2...v3.5.3) (2025-01-31)
 
 
