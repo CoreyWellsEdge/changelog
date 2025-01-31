@@ -1,3 +1,10 @@
+## [3.4.6](https://github.com/CoreyWellsEdge/changelog/compare/v3.4.5...v3.4.6) (2025-01-31)
+
+
+### Bug Fixes
+
+* test date changer Hawaii ([44bda1c](https://github.com/CoreyWellsEdge/changelog/commit/44bda1caed44aba77de53be087e9cfc51c0f5d66))
+
 ## [3.4.5](https://github.com/CoreyWellsEdge/changelog/compare/v3.4.4...v3.4.5) (31-01-2025)
 
 
