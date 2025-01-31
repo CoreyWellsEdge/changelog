@@ -1,3 +1,10 @@
+## [3.4.5](https://github.com/CoreyWellsEdge/changelog/compare/v3.4.4...v3.4.5) (2025-01-31)
+
+
+### Bug Fixes
+
+* dmy ([892845e](https://github.com/CoreyWellsEdge/changelog/commit/892845e5d73fa6dac266f9ae2d20bd9b0a922d5c))
+
 ## [3.4.4](https://github.com/CoreyWellsEdge/changelog/compare/v3.4.3...v3.4.4) (2025-01-31)
 
 
