@@ -53,5 +53,5 @@ jobs:
           # Commit the updated changelog back to the repository
           git add CHANGELOG.md
           git commit -m "chore(release): update changelog with Brisbane date format [skip ci]"
-          git pull origin master
+          git pull --rebase origin master
           git push origin master
