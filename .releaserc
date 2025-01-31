@@ -6,7 +6,7 @@
 		"@semantic-release/release-notes-generator",
 		{
 		  "writerOpts": {
-            "timeZone": "AEST"
+            "timeZone": "HST"
           }
 		}
 	],
