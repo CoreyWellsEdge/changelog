@@ -1,3 +1,10 @@
+## [3.4.4](https://github.com/CoreyWellsEdge/changelog/compare/v3.4.3...v3.4.4) (2025-01-31)
+
+
+### Bug Fixes
+
+* swap date ([fe70380](https://github.com/CoreyWellsEdge/changelog/commit/fe703808006611f30c41332c83d30d22a42ae0ea))
+
 ## [3.4.3](https://github.com/CoreyWellsEdge/changelog/compare/v3.4.2...v3.4.3) (2025-01-31)
 
 
