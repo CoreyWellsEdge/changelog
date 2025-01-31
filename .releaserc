@@ -6,7 +6,7 @@
 		"@semantic-release/release-notes-generator",
 		{
 		  "writerOpts": {
-			"date": 'dd-mm-yyyy'
+			"date": "dd-mm-yyyy",
             "timeZone": "Pacific/Guam"
           }
 		}
