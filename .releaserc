@@ -3,7 +3,14 @@
   "plugins": [
     "@semantic-release/commit-analyzer",
     "@semantic-release/release-notes-generator",
-    "@semantic-release/changelog",
+    {
+      "path": "@semantic-release/changelog",
+      "changelogFile": "CHANGELOG.md",
+      "changelogTitle": "# Changelog",
+      "changelogHeader": "## Release: ${nextRelease.version} - ${process.env.RELEASE_DATE}",
+      "changelogFooter": "\n* Generated automatically by semantic-release",
+      "changelogSectionFormat": "### ${type}"
+    },
     "@semantic-release/github",
     "@semantic-release/git"
   ]
