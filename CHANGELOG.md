@@ -1,3 +1,10 @@
+## [3.4.7](https://github.com/CoreyWellsEdge/changelog/compare/v3.4.6...v3.4.7) (2025-01-31)
+
+
+### Bug Fixes
+
+* Bris time ([dad2df5](https://github.com/CoreyWellsEdge/changelog/commit/dad2df5a9e073af135fc0142d4f850045ccff431))
+
 ## [3.4.6](https://github.com/CoreyWellsEdge/changelog/compare/v3.4.5...v3.4.6) (30-01-2025)
 
 
