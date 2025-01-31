@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.5.1](https://github.com/CoreyWellsEdge/changelog/compare/v3.5.0...v3.5.1) (2025-01-31)
+
+
+### Bug Fixes
+
+* .releaserc format ([6af53f1](https://github.com/CoreyWellsEdge/changelog/commit/6af53f1790f6586fe4f0316d3ace9afb2e5eb637))
+
 # [3.5.0](https://github.com/CoreyWellsEdge/changelog/compare/v3.4.14...v3.5.0) (2025-01-31)
 
 
