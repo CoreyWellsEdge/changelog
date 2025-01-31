@@ -1,3 +1,10 @@
+## [3.4.13](https://github.com/CoreyWellsEdge/changelog/compare/v3.4.12...v3.4.13) (2025-01-31)
+
+
+### Bug Fixes
+
+* comment git statements ([3b356c2](https://github.com/CoreyWellsEdge/changelog/commit/3b356c278cb2c7626063ba5421e4a8a148095fc5))
+
 ## [3.4.12](https://github.com/CoreyWellsEdge/changelog/compare/v3.4.11...v3.4.12) (2025-01-31)
 
 
