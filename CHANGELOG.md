@@ -1,5 +1,14 @@
 # Changelog!
 
+## [3.6.6](https://github.com/CoreyWellsEdge/changelog/compare/v3.6.5...v3.6.6) (2025-02-02)
+
+
+### Bug Fixes
+
+* add conv changelog writer ([535f22c](https://github.com/CoreyWellsEdge/changelog/commit/535f22cb7d33d304a8ea3e2550561aee59a4beb9))
+* extra bracket ([3e0f94c](https://github.com/CoreyWellsEdge/changelog/commit/3e0f94cd651d656b1fa65477f65d3d690798718f))
+* format2 ([3e09790](https://github.com/CoreyWellsEdge/changelog/commit/3e097905ec81fb3b13fda6c1d5cdcecb7d0c2b71))
+
 ## [3.6.5](https://github.com/CoreyWellsEdge/changelog/compare/v3.6.4...v3.6.5) (2025-02-02)
 
 
