@@ -4,14 +4,21 @@
     "@semantic-release/commit-analyzer",
     ["@semantic-release/release-notes-generator",
 	{
-		"date": "dd-mm-yyyy",
-        "timeZone": "Australia/Brisbane"
+		"preset": "conventionalcommits",
+		"writerOpts": {
+			"date": "dd-mm-yyyy",
+            "timeZone": "Australia/Brisbane"
+        }
 	}
 	],
     [
       "@semantic-release/changelog", 
       {
-        "changelogTitle": "# Changelog!"
+        "changelogTitle": "# Changelog!",
+		"writerOpts": {
+          "date": "dd-mm-yyyy",
+          "timeZone": "Australia/Brisbane"
+        }
       }
     ],
     "@semantic-release/github",
