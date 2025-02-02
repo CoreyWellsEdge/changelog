@@ -1,5 +1,12 @@
 # Changelog!
 
+## [3.6.5](https://github.com/CoreyWellsEdge/changelog/compare/v3.6.4...v3.6.5) (2025-02-02)
+
+
+### Bug Fixes
+
+* nesting ([80fb301](https://github.com/CoreyWellsEdge/changelog/commit/80fb301d23b1c79d5ea5f032aa8f2e274144bd25))
+
 ## [3.6.4](https://github.com/CoreyWellsEdge/changelog/compare/v3.6.3...v3.6.4) (2025-02-02)
 
 
