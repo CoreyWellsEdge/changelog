@@ -1,5 +1,12 @@
 # Changelog!
 
+## [3.6.4](https://github.com/CoreyWellsEdge/changelog/compare/v3.6.3...v3.6.4) (2025-02-02)
+
+
+### Bug Fixes
+
+* df ([addaac4](https://github.com/CoreyWellsEdge/changelog/commit/addaac4903708cf7873b0615ace26689825169cd))
+
 ## [3.6.3](https://github.com/CoreyWellsEdge/changelog/compare/v3.6.2...v3.6.3) (2025-02-02)
 
 
