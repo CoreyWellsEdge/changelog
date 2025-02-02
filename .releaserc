@@ -2,32 +2,16 @@
   "branches": ["master"],
   "plugins": [
     "@semantic-release/commit-analyzer",
-    [
-		"@semantic-release/release-notes-generator",
-		{
-		  "writerOpts": {
-			"date": "dd-mm-yyyy",
-            "timeZone": "Australia/Brisbane"
-          }
-		}
-	],
-	[
-	"@conventional-changelog-writer",
+    ["@semantic-release/release-notes-generator",
 	{
-		  "writerOpts": {
-			"date": "dd-mm-yyyy",
-            "timeZone": "Australia/Brisbane"
-          }
+		"date": "dd-mm-yyyy",
+        "timeZone": "Australia/Brisbane"
 	}
 	],
     [
       "@semantic-release/changelog", 
       {
-        "changelogTitle": "# Changelog!",
-		"writerOpts": {
-          "date": "dd-mm-yyyy",
-          "timeZone": "Australia/Brisbane"
-        }
+        "changelogTitle": "# Changelog!"
       }
     ],
     "@semantic-release/github",
