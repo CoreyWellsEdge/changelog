@@ -1,5 +1,12 @@
 # Changelog!
 
+# [3.7.0](https://github.com/CoreyWellsEdge/changelog/compare/v3.6.7...v3.7.0) (2025-02-02)
+
+
+### Features
+
+* last ditch ([5bf38f7](https://github.com/CoreyWellsEdge/changelog/commit/5bf38f75c600c5da2484cd5c2c8269344014641b))
+
 ## [3.6.7](https://github.com/CoreyWellsEdge/changelog/compare/v3.6.6...v3.6.7) (2025-02-02)
 
 ### Bug Fixes
