@@ -1,5 +1,12 @@
 # Changelog!
 
+## [3.6.7](https://github.com/CoreyWellsEdge/changelog/compare/v3.6.6...v3.6.7) (2025-02-02)
+
+### Bug Fixes
+
+* add pkg ([b589951](https://github.com/CoreyWellsEdge/changelog/commit/b5899511b3a9ecd222d255e10c58565446947feb))
+* add preset ([53d6863](https://github.com/CoreyWellsEdge/changelog/commit/53d6863cf95ba7f1d76fcf0c1376476ddd9b305a))
+
 ## [3.6.6](https://github.com/CoreyWellsEdge/changelog/compare/v3.6.5...v3.6.6) (2025-02-02)
 
 
