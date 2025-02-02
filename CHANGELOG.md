@@ -1,5 +1,12 @@
 # Changelog!
 
+## [3.6.3](https://github.com/CoreyWellsEdge/changelog/compare/v3.6.2...v3.6.3) (2025-02-02)
+
+
+### Bug Fixes
+
+* dateformat ([02d63a4](https://github.com/CoreyWellsEdge/changelog/commit/02d63a424cd5cd60ee16a83684017d52d9207d45))
+
 ## [3.6.2](https://github.com/CoreyWellsEdge/changelog/compare/v3.6.1...v3.6.2) (2025-02-02)
 
 
