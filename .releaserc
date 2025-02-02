@@ -5,10 +5,9 @@
     [
 		"@semantic-release/release-notes-generator",
 		{
-		  "preset": "angular",
-		  "options": {
+		  "writerOpts": {
 			"date": "dd-mm-yyyy",
-            "timeZone": "Pacific/Guam"
+            "timeZone": "Australia/Brisbane"
           }
 		}
 	],
