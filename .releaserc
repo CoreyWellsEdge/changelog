@@ -6,7 +6,7 @@
 		"@semantic-release/release-notes-generator",
 		{
 		  "writerOpts": {
-			"date": "dd-mm-yyyy",
+			"date": dateFormat(new Date(), 'dd-mm-yyyy', true),
             "timeZone": "Australia/Brisbane"
           }
 		}
