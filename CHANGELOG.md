@@ -1,5 +1,12 @@
 # Changelog!
 
+## [3.6.1](https://github.com/CoreyWellsEdge/changelog/compare/v3.6.0...v3.6.1) (2025-02-02)
+
+
+### Bug Fixes
+
+* options ([47f246a](https://github.com/CoreyWellsEdge/changelog/commit/47f246aa636f8b660760a77f598de5deebd47027))
+
 # [3.6.0](https://github.com/CoreyWellsEdge/changelog/compare/v3.5.5...v3.6.0) (2025-01-31)
 
 
