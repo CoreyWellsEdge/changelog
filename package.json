@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "conventional-changelog-writer": "^8.0.0",
     "node": "^20.15.1"
   },
   "name": "testapp",

@@ -11,7 +11,16 @@
           }
 		}
 	],
-	
+	[
+	"@conventional-changelog-writer",
+	{
+		  "writerOpts": {
+			"date": "dd-mm-yyyy",
+            "timeZone": "Australia/Brisbane"
+          }
+		}
+	}
+	],
     [
       "@semantic-release/changelog", 
       {
