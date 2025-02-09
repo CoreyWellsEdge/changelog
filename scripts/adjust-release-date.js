@@ -26,8 +26,8 @@ fs.readFile(releaseNotesPath, 'utf8', (err, data) => {
   fs.writeFile(releaseNotesPath, updatedData, 'utf8', (err) => {
     if (err) {
       console.error('Error writing updated release notes:', err);
-      process.exit(1);
+      return;
     }
-    console.log('Release date updated successfully!');
+    //console.log('Release date updated successfully!');
   });
 });
