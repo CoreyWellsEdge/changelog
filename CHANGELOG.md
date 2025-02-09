@@ -1,5 +1,12 @@
 # Changelog!
 
+# [3.8.0](https://github.com/CoreyWellsEdge/changelog/compare/v3.7.0...v3.8.0) (2025-02-09)
+
+
+### feat
+
+* add transform to writerOpts obj ([](https://github.com/CoreyWellsEdge/changelog/commit/ab1f59b910b5d6583acf6f006cdd65cbb8459f58))
+
 # [3.7.0](https://github.com/CoreyWellsEdge/changelog/compare/v3.6.7...v3.7.0) (2025-02-02)
 
 
