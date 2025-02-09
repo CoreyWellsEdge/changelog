@@ -1,27 +1,41 @@
+# [3.9.0](https://github.com/CoreyWellsEdge/changelog/compare/v3.8.0...v3.9.0) (2025-02-09)
+
+
+### Bug Fixes
+
+* file name ([85e349f](https://github.com/CoreyWellsEdge/changelog/commit/85e349f0c359f794dc56d8b91d12138c40dca22e))
+* return text ([44a7cef](https://github.com/CoreyWellsEdge/changelog/commit/44a7cefd9e9a55b5ff2d008e09553e78eea198b7))
+* SR/exec dependency ([cd9e0aa](https://github.com/CoreyWellsEdge/changelog/commit/cd9e0aa55a758e8f8e7ae7153394a92855473478))
+
+
+### Features
+
+* add date adjust script ([5766919](https://github.com/CoreyWellsEdge/changelog/commit/5766919ead3e88993ffa3fa0d6b8f74abe7bdeb9))
+
 # Changelog!
 
-# [3.8.0](https://github.com/CoreyWellsEdge/changelog/compare/v3.7.0...v3.8.0) (2025-02-09)
+# [3.8.0](https://github.com/CoreyWellsEdge/changelog/compare/v3.7.0...v3.8.0) (09-02-2025)
 
 
 ### feat
 
 * add transform to writerOpts obj ([](https://github.com/CoreyWellsEdge/changelog/commit/ab1f59b910b5d6583acf6f006cdd65cbb8459f58))
 
-# [3.7.0](https://github.com/CoreyWellsEdge/changelog/compare/v3.6.7...v3.7.0) (2025-02-02)
+# [3.7.0](https://github.com/CoreyWellsEdge/changelog/compare/v3.6.7...v3.7.0) (02-02-2025)
 
 
 ### Features
 
 * last ditch ([5bf38f7](https://github.com/CoreyWellsEdge/changelog/commit/5bf38f75c600c5da2484cd5c2c8269344014641b))
 
-## [3.6.7](https://github.com/CoreyWellsEdge/changelog/compare/v3.6.6...v3.6.7) (2025-02-02)
+## [3.6.7](https://github.com/CoreyWellsEdge/changelog/compare/v3.6.6...v3.6.7) (02-02-2025)
 
 ### Bug Fixes
 
 * add pkg ([b589951](https://github.com/CoreyWellsEdge/changelog/commit/b5899511b3a9ecd222d255e10c58565446947feb))
 * add preset ([53d6863](https://github.com/CoreyWellsEdge/changelog/commit/53d6863cf95ba7f1d76fcf0c1376476ddd9b305a))
 
-## [3.6.6](https://github.com/CoreyWellsEdge/changelog/compare/v3.6.5...v3.6.6) (2025-02-02)
+## [3.6.6](https://github.com/CoreyWellsEdge/changelog/compare/v3.6.5...v3.6.6) (02-02-2025)
 
 
 ### Bug Fixes
@@ -30,49 +44,49 @@
 * extra bracket ([3e0f94c](https://github.com/CoreyWellsEdge/changelog/commit/3e0f94cd651d656b1fa65477f65d3d690798718f))
 * format2 ([3e09790](https://github.com/CoreyWellsEdge/changelog/commit/3e097905ec81fb3b13fda6c1d5cdcecb7d0c2b71))
 
-## [3.6.5](https://github.com/CoreyWellsEdge/changelog/compare/v3.6.4...v3.6.5) (2025-02-02)
+## [3.6.5](https://github.com/CoreyWellsEdge/changelog/compare/v3.6.4...v3.6.5) (02-02-2025)
 
 
 ### Bug Fixes
 
 * nesting ([80fb301](https://github.com/CoreyWellsEdge/changelog/commit/80fb301d23b1c79d5ea5f032aa8f2e274144bd25))
 
-## [3.6.4](https://github.com/CoreyWellsEdge/changelog/compare/v3.6.3...v3.6.4) (2025-02-02)
+## [3.6.4](https://github.com/CoreyWellsEdge/changelog/compare/v3.6.3...v3.6.4) (02-02-2025)
 
 
 ### Bug Fixes
 
 * df ([addaac4](https://github.com/CoreyWellsEdge/changelog/commit/addaac4903708cf7873b0615ace26689825169cd))
 
-## [3.6.3](https://github.com/CoreyWellsEdge/changelog/compare/v3.6.2...v3.6.3) (2025-02-02)
+## [3.6.3](https://github.com/CoreyWellsEdge/changelog/compare/v3.6.2...v3.6.3) (02-02-2025)
 
 
 ### Bug Fixes
 
 * dateformat ([02d63a4](https://github.com/CoreyWellsEdge/changelog/commit/02d63a424cd5cd60ee16a83684017d52d9207d45))
 
-## [3.6.2](https://github.com/CoreyWellsEdge/changelog/compare/v3.6.1...v3.6.2) (2025-02-02)
+## [3.6.2](https://github.com/CoreyWellsEdge/changelog/compare/v3.6.1...v3.6.2) (02-02-2025)
 
 
 ### Bug Fixes
 
 * opts ([4375603](https://github.com/CoreyWellsEdge/changelog/commit/43756038d1522a2840c5f9663b739953ab1ff4f7))
 
-## [3.6.1](https://github.com/CoreyWellsEdge/changelog/compare/v3.6.0...v3.6.1) (2025-02-02)
+## [3.6.1](https://github.com/CoreyWellsEdge/changelog/compare/v3.6.0...v3.6.1) (02-02-2025)
 
 
 ### Bug Fixes
 
 * options ([47f246a](https://github.com/CoreyWellsEdge/changelog/commit/47f246aa636f8b660760a77f598de5deebd47027))
 
-# [3.6.0](https://github.com/CoreyWellsEdge/changelog/compare/v3.5.5...v3.6.0) (2025-01-31)
+# [3.6.0](https://github.com/CoreyWellsEdge/changelog/compare/v3.5.5...v3.6.0) (31-01-2025)
 
 
 ### Features
 
 * set preset ([f17382e](https://github.com/CoreyWellsEdge/changelog/commit/f17382e2185386948ac7096f4db0fec06221b887))
 
-## [3.5.5](https://github.com/CoreyWellsEdge/changelog/compare/v3.5.4...v3.5.5) (2025-01-31)
+## [3.5.5](https://github.com/CoreyWellsEdge/changelog/compare/v3.5.4...v3.5.5) (31-01-2025)
 
 
 ### Bug Fixes
@@ -80,21 +94,21 @@
 * try guam ([613b55e](https://github.com/CoreyWellsEdge/changelog/commit/613b55e0a5417b8574cd7a8aae409f40b8355e9b))
 * typo ([225ca3a](https://github.com/CoreyWellsEdge/changelog/commit/225ca3aeaf73e8652ad820f9c090f2886a6af1bd))
 
-## [3.5.4](https://github.com/CoreyWellsEdge/changelog/compare/v3.5.3...v3.5.4) (2025-01-31)
+## [3.5.4](https://github.com/CoreyWellsEdge/changelog/compare/v3.5.3...v3.5.4) (31-01-2025)
 
 
 ### Bug Fixes
 
 * tz format ([29172d8](https://github.com/CoreyWellsEdge/changelog/commit/29172d86e4edec65e9e19a74672464145495d7cf))
 
-## [3.5.3](https://github.com/CoreyWellsEdge/changelog/compare/v3.5.2...v3.5.3) (2025-01-31)
+## [3.5.3](https://github.com/CoreyWellsEdge/changelog/compare/v3.5.2...v3.5.3) (31-01-2025)
 
 
 ### Bug Fixes
 
 * test hawaii ([94a27ea](https://github.com/CoreyWellsEdge/changelog/commit/94a27eaeebe968ddd97ec7ab3372a2e4b300c7d5))
 
-## [3.5.2](https://github.com/CoreyWellsEdge/changelog/compare/v3.5.1...v3.5.2) (2025-01-31)
+## [3.5.2](https://github.com/CoreyWellsEdge/changelog/compare/v3.5.1...v3.5.2) (31-01-2025)
 
 
 ### Bug Fixes
@@ -103,70 +117,70 @@
 
 # Changelog
 
-## [3.5.1](https://github.com/CoreyWellsEdge/changelog/compare/v3.5.0...v3.5.1) (2025-01-31)
+## [3.5.1](https://github.com/CoreyWellsEdge/changelog/compare/v3.5.0...v3.5.1) (31-01-2025)
 
 
 ### Bug Fixes
 
 * .releaserc format ([6af53f1](https://github.com/CoreyWellsEdge/changelog/commit/6af53f1790f6586fe4f0316d3ace9afb2e5eb637))
 
-# [3.5.0](https://github.com/CoreyWellsEdge/changelog/compare/v3.4.14...v3.5.0) (2025-01-31)
+# [3.5.0](https://github.com/CoreyWellsEdge/changelog/compare/v3.4.14...v3.5.0) (31-01-2025)
 
 
 ### Features
 
 * changelog formatting ([e20f54d](https://github.com/CoreyWellsEdge/changelog/commit/e20f54d64fb131cfbeee866a62915f5e93b9d2c1))
 
-## [3.4.14](https://github.com/CoreyWellsEdge/changelog/compare/v3.4.13...v3.4.14) (2025-01-31)
+## [3.4.14](https://github.com/CoreyWellsEdge/changelog/compare/v3.4.13...v3.4.14) (31-01-2025)
 
 
 ### Bug Fixes
 
 * day m y ([f03d139](https://github.com/CoreyWellsEdge/changelog/commit/f03d13981acf943fb3763c446ac7f09ecdbebf5a))
 
-## [3.4.13](https://github.com/CoreyWellsEdge/changelog/compare/v3.4.12...v3.4.13) (2025-01-31)
+## [3.4.13](https://github.com/CoreyWellsEdge/changelog/compare/v3.4.12...v3.4.13) (31-01-2025)
 
 
 ### Bug Fixes
 
 * comment git statements ([3b356c2](https://github.com/CoreyWellsEdge/changelog/commit/3b356c278cb2c7626063ba5421e4a8a148095fc5))
 
-## [3.4.12](https://github.com/CoreyWellsEdge/changelog/compare/v3.4.11...v3.4.12) (2025-01-31)
+## [3.4.12](https://github.com/CoreyWellsEdge/changelog/compare/v3.4.11...v3.4.12) (31-01-2025)
 
 
 ### Bug Fixes
 
 * bris ([ff9d056](https://github.com/CoreyWellsEdge/changelog/commit/ff9d056f9550f90de5bd499e854529cb234398a8))
 
-## [3.4.11](https://github.com/CoreyWellsEdge/changelog/compare/v3.4.10...v3.4.11) (2025-01-30)
+## [3.4.11](https://github.com/CoreyWellsEdge/changelog/compare/v3.4.10...v3.4.11) (30-01-2025)
 
 
 ### Bug Fixes
 
 * honolulu ([f1e4ae0](https://github.com/CoreyWellsEdge/changelog/commit/f1e4ae017865dea1ad663ed4510caedfa5345b4f))
 
-## [3.4.10](https://github.com/CoreyWellsEdge/changelog/compare/v3.4.9...v3.4.10) (2025-01-31)
+## [3.4.10](https://github.com/CoreyWellsEdge/changelog/compare/v3.4.9...v3.4.10) (31-01-2025)
 
 
 ### Bug Fixes
 
 * a ([b4aeb7d](https://github.com/CoreyWellsEdge/changelog/commit/b4aeb7d638cf8633dc74682bc80fbe4b7deebc6d))
 
-## [3.4.9](https://github.com/CoreyWellsEdge/changelog/compare/v3.4.8...v3.4.9) (2025-01-31)
+## [3.4.9](https://github.com/CoreyWellsEdge/changelog/compare/v3.4.8...v3.4.9) (31-01-2025)
 
 
 ### Bug Fixes
 
 * rebase ([ed3f4a2](https://github.com/CoreyWellsEdge/changelog/commit/ed3f4a2428ed96c814d6bf34d66c344a07af0b5c))
 
-## [3.4.8](https://github.com/CoreyWellsEdge/changelog/compare/v3.4.7...v3.4.8) (2025-01-31)
+## [3.4.8](https://github.com/CoreyWellsEdge/changelog/compare/v3.4.7...v3.4.8) (31-01-2025)
 
 
 ### Bug Fixes
 
 * push ([dcc2ed1](https://github.com/CoreyWellsEdge/changelog/commit/dcc2ed1929eccc659279a9f5bf003adad7c4435a))
 
-## [3.4.7](https://github.com/CoreyWellsEdge/changelog/compare/v3.4.6...v3.4.7) (2025-01-31)
+## [3.4.7](https://github.com/CoreyWellsEdge/changelog/compare/v3.4.6...v3.4.7) (31-01-2025)
 
 
 ### Bug Fixes
@@ -187,35 +201,35 @@
 
 * dmy ([892845e](https://github.com/CoreyWellsEdge/changelog/commit/892845e5d73fa6dac266f9ae2d20bd9b0a922d5c))
 
-## [3.4.4](https://github.com/CoreyWellsEdge/changelog/compare/v3.4.3...v3.4.4) (2025-01-31)
+## [3.4.4](https://github.com/CoreyWellsEdge/changelog/compare/v3.4.3...v3.4.4) (31-01-2025)
 
 
 ### Bug Fixes
 
 * swap date ([fe70380](https://github.com/CoreyWellsEdge/changelog/commit/fe703808006611f30c41332c83d30d22a42ae0ea))
 
-## [3.4.3](https://github.com/CoreyWellsEdge/changelog/compare/v3.4.2...v3.4.3) (2025-01-31)
+## [3.4.3](https://github.com/CoreyWellsEdge/changelog/compare/v3.4.2...v3.4.3) (31-01-2025)
 
 
 ### Bug Fixes
 
 * branch ([6f0c658](https://github.com/CoreyWellsEdge/changelog/commit/6f0c6588c808aad47ef5e5a40f758cc76386c6b5))
 
-## [3.4.2](https://github.com/CoreyWellsEdge/changelog/compare/v3.4.1...v3.4.2) (2025-01-31)
+## [3.4.2](https://github.com/CoreyWellsEdge/changelog/compare/v3.4.1...v3.4.2) (31-01-2025)
 
 
 ### Bug Fixes
 
 * dont pull ([05df026](https://github.com/CoreyWellsEdge/changelog/commit/05df026eebeef46ad69447dc04f89124e26878ec))
 
-## [3.4.1](https://github.com/CoreyWellsEdge/changelog/compare/v3.4.0...v3.4.1) (2025-01-31)
+## [3.4.1](https://github.com/CoreyWellsEdge/changelog/compare/v3.4.0...v3.4.1) (31-01-2025)
 
 
 ### Bug Fixes
 
 * pull first ([a610ef2](https://github.com/CoreyWellsEdge/changelog/commit/a610ef2f362c544c7af29a1efac6a7b4a85c9da0))
 
-# [3.4.0](https://github.com/CoreyWellsEdge/changelog/compare/v3.3.3...v3.4.0) (2025-01-31)
+# [3.4.0](https://github.com/CoreyWellsEdge/changelog/compare/v3.3.3...v3.4.0) (31-01-2025)
 
 
 ### Features
