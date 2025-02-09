@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "conventional-changelog-writer": "^8.0.0",
+    "moment-timezone": "^0.5.47",
     "node": "^20.15.1"
   },
   "name": "testapp",

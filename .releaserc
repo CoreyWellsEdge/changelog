@@ -2,23 +2,13 @@
   "branches": ["master"],
   "plugins": [
     "@semantic-release/commit-analyzer",
-    ["@semantic-release/release-notes-generator",
-	{
-	"writerOpts": {
-	"transform": {
-			"date": "DD-MM-YYYY",
-            "timeZone": "Australia/Brisbane"
-			}
-    }
-	}
-	],
-    [
-      "@semantic-release/changelog", 
-      {
-        "changelogTitle": "# Changelog!"
-      }
-    ],
+    "@semantic-release/release-notes-generator",
+    "@semantic-release/changelog",
     "@semantic-release/github",
-    "@semantic-release/git"
+    "@semantic-release/git",
+    {
+      "path": "@semantic-release/exec",
+      "cmd": "node scripts/adjust-release-date.js"
+    }
   ]
 }
