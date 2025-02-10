@@ -1,3 +1,10 @@
+# [3.11.0](https://github.com/CoreyWellsEdge/changelog/compare/v3.10.3...v3.11.0) (2025-02-10)
+
+
+### Features
+
+* remove exec ([fbd1b2f](https://github.com/CoreyWellsEdge/changelog/commit/fbd1b2fa52d56d872c863131d0e8f6ea9f5d944f))
+
 ## [3.10.3](https://github.com/CoreyWellsEdge/changelog/compare/v3.10.2...v3.10.3) (2025-02-10)
 
 
