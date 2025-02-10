@@ -2,7 +2,7 @@ const exec = require('child_process').exec;
 const moment = require('moment-timezone');
 
 // Adjust system date to Brisbane timezone
-const brisbaneTime = moment.tz('Australia/Brisbane').format('YYYY-MM-DD HH:mm:ss');
+const brisbaneTime = moment.tz('Australia/Brisbane').format('DD-MM-YYYY HH:mm:ss');
 const commitMessage = 'Release with adjusted commit date for Brisbane timezone';
 
 // Run the Git command to set the commit date and trigger the release
