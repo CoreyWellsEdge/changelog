@@ -1,4 +1,11 @@
-# [3.10.0](https://github.com/CoreyWellsEdge/changelog/compare/v3.9.0...v3.10.0) (2025-02-10)
+## [3.10.1](https://github.com/CoreyWellsEdge/changelog/compare/v3.10.0...v3.10.1) (2025-02-10)
+
+
+### Bug Fixes
+
+* ymd ([8252dec](https://github.com/CoreyWellsEdge/changelog/commit/8252decbe111aa8711709c939454ebb26ad6c3ea))
+
+# [3.10.0](https://github.com/CoreyWellsEdge/changelog/compare/v3.9.0...v3.10.0) (Mon Feb 10 2025 00:00:00 GMT+1000)
 
 
 ### Bug Fixes
