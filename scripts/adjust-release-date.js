@@ -17,7 +17,7 @@ fs.readFile(changelogPath, 'utf8', (err, data) => {
 
   // Adjust the date to Brisbane timezone
   const updatedData = data.replace(dateRegex, (match) => {
-    const date = moment.tz(match, 'YYYY-MM-DD', 'Australia/Brisbane');
+    const date = moment.tz(match, 'YYYY-MM-DD', 'Australia/Brisbane').format('YYYY-MM-DD');
     return date; // Replace with new date format
   });
 
