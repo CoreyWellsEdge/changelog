@@ -28,5 +28,6 @@ fs.readFile(changelogPath, 'utf8', (err, data) => {
       return;
     }
     //console.log('Release date updated successfully in changelog!');
+	
   });
 });
