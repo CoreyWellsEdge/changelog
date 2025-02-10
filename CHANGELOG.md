@@ -1,3 +1,10 @@
+## [3.9.1](https://github.com/CoreyWellsEdge/changelog/compare/v3.9.0...v3.9.1) (2025-02-10)
+
+
+### Bug Fixes
+
+* adjust script ([b26476c](https://github.com/CoreyWellsEdge/changelog/commit/b26476c260d10c5465d9f1e1aa579fd520e27ddc))
+
 # [3.9.0](https://github.com/CoreyWellsEdge/changelog/compare/v3.8.0...v3.9.0) (2025-02-09)
 
 
