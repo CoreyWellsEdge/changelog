@@ -5,16 +5,28 @@
 
 * adjust script ([ce44cd3](https://github.com/CoreyWellsEdge/changelog/commit/ce44cd336352455c6dcd6dc89299fcacabe557c5))
 * adjust script ([0c08332](https://github.com/CoreyWellsEdge/changelog/commit/0c08332d6fa3c0021e2aca014867f51bfc86f8b8))
+* bad return ([99d172c](https://github.com/CoreyWellsEdge/changelog/commit/99d172c977fd69c12e0e8fb233ab4571972a57b0))
+* dmy format ([4d77b82](https://github.com/CoreyWellsEdge/changelog/commit/4d77b8291132eb6cf7a2b1df87850035a8b7a36f))
+* dmy format ([c3112bd](https://github.com/CoreyWellsEdge/changelog/commit/c3112bd5888d8583e148868ada6330fff664c395))
+* remove commit ([8e2bbc0](https://github.com/CoreyWellsEdge/changelog/commit/8e2bbc023da8509051b452a4e2079e2264e92d56))
+
+## [3.9.1](https://github.com/CoreyWellsEdge/changelog/compare/v3.9.0...v3.9.1) (10-02-2025)
+
+
+### Bug Fixes
+
+* adjust script ([ce44cd3](https://github.com/CoreyWellsEdge/changelog/commit/ce44cd336352455c6dcd6dc89299fcacabe557c5))
+* adjust script ([0c08332](https://github.com/CoreyWellsEdge/changelog/commit/0c08332d6fa3c0021e2aca014867f51bfc86f8b8))
 * dmy format ([1d12693](https://github.com/CoreyWellsEdge/changelog/commit/1d126939623aed8ab55483e4a90fd8eec622ef45))
 
-## [3.9.1](https://github.com/CoreyWellsEdge/changelog/compare/v3.9.0...v3.9.1) (2025-02-10)
+## [3.9.1](https://github.com/CoreyWellsEdge/changelog/compare/v3.9.0...v3.9.1) (10-02-2025)
 
 
 ### Bug Fixes
 
 * adjust script ([b26476c](https://github.com/CoreyWellsEdge/changelog/commit/b26476c260d10c5465d9f1e1aa579fd520e27ddc))
 
-# [3.9.0](https://github.com/CoreyWellsEdge/changelog/compare/v3.8.0...v3.9.0) (2025-02-09)
+# [3.9.0](https://github.com/CoreyWellsEdge/changelog/compare/v3.8.0...v3.9.0) (09-02-2025)
 
 
 ### Bug Fixes
