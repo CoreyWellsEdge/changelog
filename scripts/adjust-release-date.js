@@ -27,6 +27,6 @@ fs.readFile(changelogPath, 'utf8', (err, data) => {
       console.error('Error writing updated changelog:', err);
       return;
     }
-    console.log('Release date updated successfully in changelog!');
+    //console.log('Release date updated successfully in changelog!');
   });
 });
