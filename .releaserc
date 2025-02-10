@@ -6,9 +6,5 @@
     "@semantic-release/changelog",
     "@semantic-release/github",
     "@semantic-release/git",
-    {
-      "path": "@semantic-release/exec",
-      "cmd": "node scripts/adjust-release-date.js"
-    }
   ]
 }
