@@ -1,3 +1,10 @@
+## [3.10.2](https://github.com/CoreyWellsEdge/changelog/compare/v3.10.1...v3.10.2) (2025-02-10)
+
+
+### Bug Fixes
+
+* date format ([195e058](https://github.com/CoreyWellsEdge/changelog/commit/195e05891b938467e4cf256f6068c54b2578f200))
+
 ## [3.10.1](https://github.com/CoreyWellsEdge/changelog/compare/v3.10.0...v3.10.1) (2025-02-10)
 
 
