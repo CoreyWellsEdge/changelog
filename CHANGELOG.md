@@ -1,3 +1,10 @@
+## [3.10.3](https://github.com/CoreyWellsEdge/changelog/compare/v3.10.2...v3.10.3) (2025-02-10)
+
+
+### Bug Fixes
+
+* test hawaii ([1344e4d](https://github.com/CoreyWellsEdge/changelog/commit/1344e4dcd5db6096b93061012184685737345915))
+
 ## [3.10.2](https://github.com/CoreyWellsEdge/changelog/compare/v3.10.1...v3.10.2) (2025-02-10)
 
 
