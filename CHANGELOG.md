@@ -3,6 +3,15 @@
 
 ### Bug Fixes
 
+* adjust script ([ce44cd3](https://github.com/CoreyWellsEdge/changelog/commit/ce44cd336352455c6dcd6dc89299fcacabe557c5))
+* adjust script ([0c08332](https://github.com/CoreyWellsEdge/changelog/commit/0c08332d6fa3c0021e2aca014867f51bfc86f8b8))
+* dmy format ([1d12693](https://github.com/CoreyWellsEdge/changelog/commit/1d126939623aed8ab55483e4a90fd8eec622ef45))
+
+## [3.9.1](https://github.com/CoreyWellsEdge/changelog/compare/v3.9.0...v3.9.1) (2025-02-10)
+
+
+### Bug Fixes
+
 * adjust script ([b26476c](https://github.com/CoreyWellsEdge/changelog/commit/b26476c260d10c5465d9f1e1aa579fd520e27ddc))
 
 # [3.9.0](https://github.com/CoreyWellsEdge/changelog/compare/v3.8.0...v3.9.0) (2025-02-09)
